@@ -2,7 +2,7 @@
 This python script add Landmarks on your face live!
 
 Requirements:
-  face_recognition
-  openCV
-  Pillow
-  numpy
+face_recognition
+openCV
+Pillow
+numpy
